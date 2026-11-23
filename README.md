@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Chanjae Song
 
-<!--
-**cjsong45/cjsong45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ph.D. student at the **Graduate School of Data Science, KAIST**, in the [Data Mining Lab](https://www.kaistdmlab.org/) (advisor: Prof. Jae-Gil Lee).
 
-Here are some ideas to get you started:
+**Research interests:** multimodal learning · multimodal interpretability · data-efficient learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Education
+- **Ph.D.**, Data Science, KAIST (2026.03 – present)
+- **M.S.**, Industrial & Systems Engineering, KAIST (2024.03 – 2026.02)
+- **B.S.**, Industrial & Management Engineering, Korea University (2018.03 – 2024.02)
+
+#### Projects
+- [**GeoTwin_MIL**](https://github.com/cjsong45/GeoTwin_MIL): an evaluation framework for the 15-minute city using satellite imagery
+
+#### Contact
+[Lab](https://www.kaistdmlab.org/) · [LinkedIn](https://www.linkedin.com/in/chanjae-song-b440b2355)
