@@ -14,7 +14,7 @@ Ph.D. student at the **Graduate School of Data Science, KAIST**, in the [Data Mi
 - **[Blue Tile Lab × ETRI]** [**RingDefect-MIL**](https://github.com/cjsong45/RingDefect-MIL): weakly supervised ring-beam defect detection via polar unwrapping and MIL
 - **[Chunjae Education]** [**Learner-Prof**](https://github.com/cjsong45/Learner-Prof): learner attribute extraction and learner-type profiling from learning logs
 - **[KAIST AI619]** [**chatclinic-VQA**](https://github.com/cjsong45/chatclinic-VQA): retrieval-grounded, traceable VQA for whole-slide images
-- **[Samsung Electronics Capstone]** [**LayoutPattern-Opt**](https://github.com/cjsong45/LayoutPattern-Opt): pattern generation and integer programming for equipment layout
+- **[Samsung Electronics]** [**LayoutPattern-Opt**](https://github.com/cjsong45/LayoutPattern-Opt): pattern generation and integer programming for equipment layout
 - **[KU Ergonomics Lab]** [**Stroop-Workload**](https://github.com/cjsong45/Stroop-Workload): Stroop dual-task programs for cognitive-workload experiments
 
 #### Contact
