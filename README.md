@@ -2,7 +2,7 @@
 
 Ph.D. student at the **Graduate School of Data Science, KAIST**, in the [Data Mining Lab](https://www.kaistdmlab.org/) (advisor: Prof. Jae-Gil Lee).
 
-**Research interests:** multimodal learning · multimodal interpretability · data-efficient learning
+**Research interests:** Grounded multimodal interpretability · Robust multimodal learning
 
 #### Education
 - **Ph.D.**, Data Science, KAIST (2026.03 – present)
