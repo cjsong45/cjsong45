@@ -10,4 +10,4 @@ Ph.D. student at the **Graduate School of Data Science, KAIST**, in the [Data Mi
 - **B.S.**, Industrial & Management Engineering, Korea University (2018.03 – 2024.02)
 
 #### Contact
-[Lab](https://www.kaistdmlab.org/) · [LinkedIn](https://www.linkedin.com/in/chanjae-song-b440b2355)
+[Homepage](https://cjsong45.github.io) · [Lab](https://www.kaistdmlab.org/) · [LinkedIn](https://www.linkedin.com/in/chanjae-song-b440b2355)
