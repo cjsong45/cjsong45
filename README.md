@@ -9,8 +9,5 @@ Ph.D. student at the **Graduate School of Data Science, KAIST**, in the [Data Mi
 - **M.S.**, Industrial & Systems Engineering, KAIST (2024.03 – 2026.02)
 - **B.S.**, Industrial & Management Engineering, Korea University (2018.03 – 2024.02)
 
-#### Projects
-- [**GeoTwin_MIL**](https://github.com/cjsong45/GeoTwin_MIL): an evaluation framework for the 15-minute city using satellite imagery
-
 #### Contact
 [Lab](https://www.kaistdmlab.org/) · [LinkedIn](https://www.linkedin.com/in/chanjae-song-b440b2355)
